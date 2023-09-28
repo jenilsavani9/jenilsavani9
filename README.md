@@ -2,7 +2,15 @@
 <p align="center">I am a Software Engineer<br>🌱 I’m currently learning how to help the Open Source community more</p>
 <h2 align="center">Feel free reaching out me at following platforms:</h2>
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenil-savani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13911844/jenil-savani) 
+  <a href="https://www.linkedin.com/in/jenil-savani" target="_blank">
+    <img src="assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jenilsavani1@gmail.com" target="_blank">
+    <img src="assets/icons/social/gmail/default.svg" width="45" height="30" alt="Gmail logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/13911844/jenil-savani" target="_blank">
+    <img src="assets/icons/social/stackoverflow/default.svg" width="45" height="30" alt="Gmail logo"  />
+  </a>
 </div>
 
 ---
