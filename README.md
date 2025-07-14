@@ -20,4 +20,4 @@ Currently chasing systems that think, code that explains itself, and tools that 
 > I write context.  
 > So others never have to ask "why?" again.
 
-Proudly building in public. Follow my journey on Twitter: ![@jenilsavani_](https://x.com/jenilsavani_)
+Proudly building in public. Follow my journey on Twitter: [@jenilsavani_](https://x.com/jenilsavani_)
