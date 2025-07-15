@@ -2,7 +2,7 @@
 
 #### Focused on building tools that remove friction and reveal intent.
 
-Building [DevSecrin](https://github.com/your-repo) — a high-context RAG engine for developers.<br>
+Building Devsecrin — a high-context RAG engine for developers.<br>
 Currently chasing systems that think, code that explains itself, and tools that *don’t get in the way*.
 
 ---
