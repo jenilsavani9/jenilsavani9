@@ -2,7 +2,7 @@
 
 #### Focused on building tools that remove friction and reveal intent.
 
-Building Devsecrin — a high-context RAG engine for developers.<br>
+Building Secrin — a high-context RAG engine for developers.<br>
 Currently chasing systems that think, code that explains itself, and tools that *don’t get in the way*.
 
 ---
@@ -21,4 +21,5 @@ Currently chasing systems that think, code that explains itself, and tools that 
 > So others never have to ask "why?" again.
 
 Proudly building in public. Follow my journey on Twitter: [@jenilsavani_](https://x.com/jenilsavani_)
+
 
