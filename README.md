@@ -1,4 +1,4 @@
-### Hey, I’m Jenil 👋
+### Hey, I’m Jenil
 
 #### Focused on building tools that remove friction and reveal intent.
 
@@ -7,20 +7,12 @@ Currently chasing systems that think, code that explains itself, and tools that 
 
 ---
 
-- 🚀 Working on: `Secrin`, A developer context engine powered by Git + Docs + Tickets + AI.
-- 🧠 Exploring: system design, local-first tools, AI memory, graph-based knowledge models
-- ⚒️ Daily stack: `.ts`, `.js`, `.py`, `.sql`, `.md`, `.json`, `.sh`
-- 🕸️ Fan of modular systems, Swiss design principles, and calm infrastructure
-- 🧭 Mission: Build tools that *amplify developers*, not just assist them
-- 💬 Ping me about **developer productivity**, **tooling design**, **AI + code**, **graph embeddings**, **RAG**, or **system design**
+- Working on: `Secrin`, A developer context engine powered by Git + Docs + Tickets + AI.
+- Exploring: system design, local-first tools, AI memory, graph-based knowledge models
+- Daily stack: `.ts`, `.js`, `.py`, `.sql`, `.md`, `.json`, `.sh`
+- Mission: Build tools that *amplify developers*, not just assist them
+- Ping me about **developer productivity**, **tooling design**, **AI + code**, **graph embeddings**, **RAG**, or **system design**
 
 ---
 
-> I don’t just write code.  
-> I write context.  
-> So others never have to ask "why?" again.
-
-Proudly building in public. Follow my journey on Twitter: [@jenilsavani_](https://x.com/jenilsavani_)
-
-
-
+Building in public. Follow my journey on Twitter: [@jenilsavani_](https://x.com/jenilsavani)
